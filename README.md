@@ -1,4 +1,4 @@
-LUME: LLM Unlearning with Multitask Evaluations
+# LUME: LLM Unlearning with Multitask Evaluations
 
 <p align="center">
     <a href="http://arxiv.org/abs/2502.15097"><img src="https://img.shields.io/badge/paper-arXiv-red" alt="Paper"></a>
